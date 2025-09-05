@@ -8,7 +8,7 @@ public class ZombieRoom
     public int capacity { get; private set; }
 
      private List<string> zombies;
-    public ZombieRoom(int capacity = 5)
+    public ZombieRoom(int capacity)
     {
         this.capacity = capacity;
         zombies = new List<string>();
@@ -17,11 +17,14 @@ public class ZombieRoom
 
     public void addZombie(string name)
     {
-        if (zombies.Count == this.capacity)
+        if (this.capacity > 0)
         {
-            zombies.RemoveAt(0);
-        }
-        zombies.Add(name);
+            if (zombies.Count == this.capacity)
+            {
+                zombies.RemoveAt(0);
+            }
+            zombies.Add(name);
+        }     
     }
 
     public int getZombiesNumber()
