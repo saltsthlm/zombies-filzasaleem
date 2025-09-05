@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies.Tests/Zombies.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies.Tests/Zombies.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies.Tests/Zombies.Tests.csproj",
+        "projectName": "Zombies.Tests",
+        "projectPath": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies.Tests/Zombies.Tests.csproj",
+        "packagesPath": "/Users/filzasaleem/.nuget/packages/",
+        "outputPath": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/filzasaleem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/Zombies.csproj": {
+                "projectPath": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/Zombies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/Zombies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/Zombies.csproj",
+        "projectName": "Zombies",
+        "projectPath": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/Zombies.csproj",
+        "packagesPath": "/Users/filzasaleem/.nuget/packages/",
+        "outputPath": "/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/filzasaleem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
