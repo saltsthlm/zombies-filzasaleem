@@ -1,0 +1,12 @@
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/bin/Debug/net9.0/Zombies.deps.json
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/bin/Debug/net9.0/Zombies.dll
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/bin/Debug/net9.0/Zombies.pdb
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.AssemblyInfoInputs.cache
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.AssemblyInfo.cs
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.csproj.CoreCompileInputs.cache
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.sourcelink.json
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.dll
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/refint/Zombies.dll
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/Zombies.pdb
+/Users/filzasaleem/salt/precourse/zombies-filzasaleem/Zombies/obj/Debug/net9.0/ref/Zombies.dll
