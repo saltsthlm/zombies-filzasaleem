@@ -24,7 +24,7 @@ public class ZombieRoom
         zombies.Add(name);
     }
 
-    public int getZombiesNUmber()
+    public int getZombiesNumber()
     {
         return zombies.Count;
     }
